@@ -1,0 +1,20 @@
+step1: $ git clone "url"
+step2: $ cd smartfolio_url
+step3: $ git branch
+step4: $ git branch -a | grep ankit
+show branch/path
+step5: $ git checkout branch/path
+step6: $ git branch
+==============================================
+step7: $ git branch
+step8: $ git status
+step9: $ git checkout ankit/restbranchpath
+step10: $ git status
+step11: $ git add full-file-name
+step12: $ git status
+step13: $ git commit -m "fix for defect id "
+step 14: $ git push origin ankit/restbranchpath
+===============================================
+step15: $ get fetch 
+step16: $ git diff filename
+q for quit in diff
