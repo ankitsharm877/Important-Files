@@ -1,0 +1,4 @@
+patternlab.io
+1.npm create pattern-lab
+2.npm install @pattern-lab/cli --save-dev
+3.npm run pl:serve
