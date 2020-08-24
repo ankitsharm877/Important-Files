@@ -1,0 +1,11 @@
+mkdir folder-name
+npm init --verbose
+npm install --save-dev webpack --verbose
+npm install --save-dev babel-core babel-cli babel-loader
+npm install --save-dev babel-preset-es2015 babel-preset-react
+npm install --save react react-dom
+npm install --save-dev babel-loader@7
+npm run build
+npm run transpile
+npm install --save ../hellolib
+create-react-library
