@@ -1,0 +1,26 @@
+npm install -g create-react-app
+npx create-react-app my-app
+npm start
+npm install mobx-react --save
+npm install mobx --save
+npm install axios --save
+npm cache clean --force
+npm install react-router --save
+npm install --save react-router-dom
+npm install --save bootstrap
+npm install popper.js --save
+npm install --save jquery
+npm install -g sass
+
+npm install redux
+npm install react-redux
+npm install --save redux-devtools-extension
+npm install --save redux-logger
+npm instal --save redux-thunk
+npm install --save flux
+
+rce
+rfce
+rpce
+rconst
+useState
