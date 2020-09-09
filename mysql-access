@@ -1,0 +1,9 @@
+$ CREATE USER 'root'@'192.168.1.100' IDENTIFIED BY  'root';
+$ GRANT ALL PRIVILEGES ON *.* TO 'root'@’148.72.210.14’ IDENTIFIED BY ‘root’;
+$sudo /etc/init.d/mysql start
+$ vim errror.log
+$ sudo service mysql restart
+$ show variables like '%log%'
+$ sudo service mysql status
+/var/lib/mysql/ip-148-72-210-14.log
+
