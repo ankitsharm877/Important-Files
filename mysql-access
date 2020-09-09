@@ -6,4 +6,5 @@ $ sudo service mysql restart
 $ show variables like '%log%'
 $ sudo service mysql status
 /var/lib/mysql/ip-148-72-210-14.log
+$ sudo -i
 
