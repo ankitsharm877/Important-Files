@@ -1,0 +1,5 @@
+Update project facet in eclipse
+step 1: go to project location
+step 2: open .settings folder
+step 3: edit org.eclipse.wst.common.project.facet.core.xml file
+step 4: restart eclipse
