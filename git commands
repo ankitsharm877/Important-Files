@@ -18,3 +18,7 @@ step 14: $ git push origin ankit/restbranchpath
 step15: $ get fetch 
 step16: $ git diff filename
 q for quit in diff
+
+step17: to update local branch create pull request and marge code in local branch
+step18: git pull
+step19: git reset
